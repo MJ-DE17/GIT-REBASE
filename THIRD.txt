@@ -1,1 +1,2 @@
 this file contains nothing
+This is edited through the interactive rebase.
